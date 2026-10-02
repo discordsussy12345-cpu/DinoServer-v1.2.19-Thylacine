@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "version": "1.2.19",
+  "saves_included": false,
+  "device_links_recovery_databases_credentials_included": false,
+  "runtime_logs_locks_caches_included": false,
+  "clean_release_defaults": true,
+  "timer_fixes_and_original_branding_preserved": true,
+  "features_added": false,
+  "original_desktop_zip_unchanged": true,
+  "archive_integrity": true,
+  "update_manifest_files_verified": 120,
+  "actual_update_apply_from_1_1_19": true,
+  "all_7_user_data_sentinels_preserved": true,
+  "previous_timer_checks": 48,
+  "fresh_device_gameplay_retested": false,
+  "artifacts": [
+    {
+      "file": "DinoServer-Windows-v1.2.19.zip",
+      "size": 25766330,
+      "sha256": "b4d41f23b049ffd79cb55f1855296f8ae954e9921c1e6405e435ca99789b7885"
+    },
+    {
+      "file": "DinoServer-Update-v1.2.19.zip",
+      "size": 25675146,
+      "sha256": "07191b72934625cd6c9e894e27570c759cdd5689fe93773f67fa8c3911a48e1c"
+    },
+    {
+      "file": "Android-Controller/JPB-Controller-v0.8.23.apk",
+      "size": 79214641,
+      "sha256": "73eda130e28aec7e9ec5cb57a9c6ccdc3aa8c2bdf2840ef3f97fb03cf9f0bba3"
+    }
+  ]
+}

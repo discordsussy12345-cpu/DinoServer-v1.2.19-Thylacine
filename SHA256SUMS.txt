@@ -1,0 +1,3 @@
+b4d41f23b049ffd79cb55f1855296f8ae954e9921c1e6405e435ca99789b7885  DinoServer-Windows-v1.2.19.zip
+07191b72934625cd6c9e894e27570c759cdd5689fe93773f67fa8c3911a48e1c  DinoServer-Update-v1.2.19.zip
+73eda130e28aec7e9ec5cb57a9c6ccdc3aa8c2bdf2840ef3f97fb03cf9f0bba3  Android-Controller/JPB-Controller-v0.8.23.apk
